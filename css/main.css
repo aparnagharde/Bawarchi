@@ -4,6 +4,9 @@
     padding-top: 135px;
 
 }
+#demo:before {
+    background-color: rgba(0, 0, 0, 0.4);
+}
   .hotbread,.foodtruck,.express,.biryani,.cuisine{
     display: flex;
     margin-bottom: 84px;

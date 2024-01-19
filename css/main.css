@@ -4,9 +4,7 @@
     padding-top: 135px;
 
 }
-#demo:before {
-    background-color: rgba(0, 0, 0, 0.4);
-}
+
   .hotbread,.foodtruck,.express,.biryani,.cuisine{
     display: flex;
     margin-bottom: 84px;
@@ -1033,6 +1031,7 @@ hr {
     margin-bottom: 30px;
     padding: 38px 42px;
     transition: all 0.15s ease-in-out;
+        height: 259px;
 }
 .services-section .single-service .service-icon {
     display: inline-block;

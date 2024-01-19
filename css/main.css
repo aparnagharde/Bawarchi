@@ -42,7 +42,7 @@
 
   }
   .truck-bg{
-    background-image: url(https://www.pringleapi.com/Documents/4baf752b-ce76-40d9-8e27-074c9c75cac0/hot-bread.webp);
+    background-image: url(https://www.pringleapi.com/Documents/4baf752b-ce76-40d9-8e27-074c9c75cac0/truck.webp);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -69,13 +69,12 @@
     border: 0;.h
 }
 body {
-    background-color: #111;
+    background-color:#edf3f8;
     color: #9f9f9f;
     font-family: 'Futura LT', sans-serif;                                            
     font-size: 18px;
     font-weight: 400;
     line-height: 1.95;
-    overflow: hidden;
     position: relative;
 }
 i.icon {
